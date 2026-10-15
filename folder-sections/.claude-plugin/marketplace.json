@@ -1,0 +1,8 @@
+{
+  "name": "local-folder-sections",
+  "description": "Local marketplace for the folder-sections plugin.",
+  "owner": { "name": "Jinx" },
+  "plugins": [
+    { "name": "folder-sections", "source": "./", "description": "Restores folder grouping in the Claude Desktop Code sidebar." }
+  ]
+}

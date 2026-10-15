@@ -1,0 +1,7 @@
+{
+  "name": "fixes-for-dumb-ui-decisions",
+  "owner": { "name": "TheFeloniousMonk" },
+  "plugins": [
+    { "name": "folder-sections", "source": "./folder-sections", "description": "Restores folder grouping in the Claude Desktop Code sidebar." }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "folder-sections",
+  "version": "0.2.0",
+  "description": "Files each new Claude Desktop Code session into a sidebar section named after its project folder (git repo root), creating the section if needed, and keeps each section to its 5 most recent sessions by moving older ones into an \"Older\" section.",
+  "license": "MIT"
+}
